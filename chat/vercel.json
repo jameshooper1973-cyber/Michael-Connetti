@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/api/mistral", "destination": "/api/chat" },
+    { "source": "/", "destination": "/index.html" }
+  ]
+}
